@@ -1,0 +1,17 @@
+learning about diff oldfile newfile
+
+How could having easy access tot he entore history of a file make you a more efficient programmer in the long-term?
+
+1. find bugs
+
+What do you think are the pros and cons of manually choosing when to make a commit, like you do in Git, vs having versions automatically saved, like in google docs?
+
+1. Can separate logical groups of code, however at risk of committing too large if don't commit reguarly enough
+
+using git log to view the history of files
+don't forget to enter q to exit the git lo
+can use --stat to get summary of lines added/deleted
+use git diff to compare 2 hashcodes to see detailed differences
+
+Now that you have your workspace set-up what do you want to use it for?
+1. Sorting out STATA do-files
